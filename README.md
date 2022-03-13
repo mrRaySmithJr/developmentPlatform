@@ -1,2 +1,2 @@
 # developmentPlatform
-Decomplexifying Software Development - 
+Decomplexifying Software Development
